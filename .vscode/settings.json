@@ -1,0 +1,42 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "cSpell.words": [
+    "appconfig",
+    "AUTHCONSTANTS",
+    "checkin",
+    "Checkins",
+    "datetimepicker",
+    "downvote",
+    "Downvoted",
+    "downvoting",
+    "Formik",
+    "getstream",
+    "gifs",
+    "Giphy",
+    "jackdumbel",
+    "Lawland",
+    "lightprpl",
+    "Marke",
+    "Notifee",
+    "passcode",
+    "personalise",
+    "Pressable",
+    "recoverycoach",
+    "recoverycoaches",
+    "Signin",
+    "skus",
+    "tanstack",
+    "thankfull",
+    "unfollow",
+    "unfollowing",
+    "Upvote",
+    "Upvoted",
+    "upvotes",
+    "upvoting",
+    "Yume",
+    "yumetype"
+  ]
+}

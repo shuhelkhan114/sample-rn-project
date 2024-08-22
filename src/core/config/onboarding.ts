@@ -1,0 +1,1 @@
+export const TOTAL_USER_ONBOARDING_STEPS = 9
